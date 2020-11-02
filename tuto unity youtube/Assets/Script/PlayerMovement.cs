@@ -35,10 +35,6 @@ public class PlayerMovement : MonoBehaviour
     void Update() 
     {
         
-        //check if the space in between the two ground check object is coliding with something
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, collisionLayer);
-
-
         //creat a float in witch we store the calculation of our movement
         horizontalMovement = Input.GetAxis("Horizontal");
 
@@ -60,6 +56,9 @@ public class PlayerMovement : MonoBehaviour
         horizontalMovement = horizontalMovement * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
         //execute the custome fonction MovePlayer
         MovePlayer(horizontalMovement);
+
+        //check if the space in between the two ground check object is coliding with something
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, collisionLayer);
     }
 
     //this custom fuction get one float argument 
