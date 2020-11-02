@@ -12,13 +12,15 @@ public class PlayerMovement : MonoBehaviour
     //used to store the rigid body of the player
     public Rigidbody2D rb;
 
-
+    
     private bool isJumping;
+    [SerializeField]
     private bool isGrounded;
 
     //take reference for the empty gameobject that follow the player
-    public Transform groundCheckLeft;
-    public Transform groundCheckRight;
+    public Transform groundCheck;
+    public float groundCheckRadius;
+    public LayerMask collisionLayer;
 
     // we need that vectore to apply the velocity in the fonction
     private Vector3 velocity = Vector3.zero;
@@ -27,34 +29,37 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
-    void Start()
+    // variable to store the horizontal movment when we calculate it
+    private float horizontalMovement;
+
+    void Update() 
     {
         
-    }
-
-    void FixedUpdate() // we use fixed update beacause we use the rigid body of the player and the internat physics to move the player fixedupdate is in step with the physique engine of unity so everything that use physique should be in a fixed update
-    {
-
         //check if the space in between the two ground check object is coliding with something
-        isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position);
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, collisionLayer);
 
 
         //creat a float in witch we store the calculation of our movement
-        float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
+        horizontalMovement = Input.GetAxis("Horizontal");
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             isJumping = true;
         }
 
-        //execute the custome fonction MovePlayer
-        MovePlayer(horizontalMovement);
 
         flip(rb.velocity.x);
 
         // give to the animator the speed so wee can transition n the animation
         float charachterVelocity = math.abs((rb.velocity.x));
         animator.SetFloat("speed", charachterVelocity);
+    }
+
+    void FixedUpdate() // we use fixed update beacause we use the rigid body of the player and the internat physics to move the player fixedupdate is in step with the physique engine of unity so everything that use physique should be in a fixed update
+    {
+        horizontalMovement = horizontalMovement * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
+        //execute the custome fonction MovePlayer
+        MovePlayer(horizontalMovement);
     }
 
     //this custom fuction get one float argument 
@@ -83,5 +88,11 @@ public class PlayerMovement : MonoBehaviour
         {
             spriteRenderer.flipX = true;
         }
+    }
+    
+    public void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }

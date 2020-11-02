@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class weakPoint : MonoBehaviour
+public class WeakPoint : MonoBehaviour
 {
 
     public GameObject objectToDestroy;
