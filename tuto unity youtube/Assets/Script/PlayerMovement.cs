@@ -36,7 +36,9 @@ public class PlayerMovement : MonoBehaviour
     {
         
         //creat a float in witch we store the calculation of our movement
-        horizontalMovement = Input.GetAxis("Horizontal");
+        horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed ;
+
+        //horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
@@ -53,9 +55,9 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate() // we use fixed update beacause we use the rigid body of the player and the internat physics to move the player fixedupdate is in step with the physique engine of unity so everything that use physique should be in a fixed update
     {
-        horizontalMovement = horizontalMovement * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
+       
         //execute the custome fonction MovePlayer
-        MovePlayer(horizontalMovement);
+        MovePlayer(horizontalMovement * Time.deltaTime);
 
         //check if the space in between the two ground check object is coliding with something
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, collisionLayer);

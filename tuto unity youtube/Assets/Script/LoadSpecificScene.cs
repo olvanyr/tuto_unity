@@ -5,11 +5,11 @@ using UnityEngine.SceneManagement;
 public class LoadSpecificScene : MonoBehaviour
 {
     public string sceneName;
-    public Animator fadeSysem;
+    public Animator fadeSystem;
 
     private void Awake()
     {
-        fadeSysem = GameObject.FindGameObjectWithTag("FadeSystem").GetComponent<Animator>();
+        fadeSystem = GameObject.FindGameObjectWithTag("FadeSystem").GetComponent<Animator>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -22,7 +22,7 @@ public class LoadSpecificScene : MonoBehaviour
 
     public IEnumerator LoadNextScene()
     {
-        fadeSysem.SetTrigger("FadeIn");
+        fadeSystem.SetTrigger("FadeIn");
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(sceneName);
     }
