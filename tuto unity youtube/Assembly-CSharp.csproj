@@ -67,10 +67,13 @@
     <Compile Include="Assets\Script\Enemy_patrol.cs" />
     <Compile Include="Assets\Script\HealthBar.cs" />
     <Compile Include="Assets\Script\Inventory.cs" />
+    <Compile Include="Assets\Script\LoadSpecificScene.cs" />
     <Compile Include="Assets\Script\PickUpObject.cs" />
     <Compile Include="Assets\Script\PlayerHealth.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\PlayerSpawn.cs" />
     <Compile Include="Assets\Script\WeakPoint.cs" />
+    <Compile Include="Assets\Script\dontDestroyOnLoadScene.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
