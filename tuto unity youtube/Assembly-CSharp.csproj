@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DeathZone.cs" />
     <Compile Include="Assets\Script\CameraFollow.cs" />
+    <Compile Include="Assets\Script\CheckPoint.cs" />
+    <Compile Include="Assets\Script\DeathZone.cs" />
     <Compile Include="Assets\Script\Enemy_patrol.cs" />
     <Compile Include="Assets\Script\HealthBar.cs" />
     <Compile Include="Assets\Script\Inventory.cs" />
