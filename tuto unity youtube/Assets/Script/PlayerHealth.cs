@@ -17,6 +17,20 @@ public class PlayerHealth : MonoBehaviour
 
     public SpriteRenderer graphics;
 
+
+    public static PlayerHealth instance; //static variable are like global variable, you can accesse them form any script by using scriptName.StaticVarName
+
+    private void Awake()//the awake function is called when a scene start  so at the beggining of the scene, we creat store the instance id into a static var named instance
+    {
+        if (instance != null)
+        {
+            Debug.LogWarning("il y a plus d'une instance de PlayerHealth dans la scéne");
+            return;
+        }
+        instance = this;
+    }
+
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -44,6 +58,21 @@ public class PlayerHealth : MonoBehaviour
         }
 
     }
+
+    public void HealPlayer(int heal)
+    {
+        if ((currentHealth + heal) > maxHealth) 
+        { 
+            currentHealth = maxHealth; 
+        }else
+        {
+            currentHealth += heal;
+            healthBar.SetHealth(currentHealth);
+        }
+        
+
+    }
+
 
     public IEnumerator InvincibilityFlash()
     { 
