@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 
     //used to store our movespeed
     public float moveSpeed;
+    public float climbSpeed;
 
     public float jumpForce;
 
@@ -14,9 +15,11 @@ public class PlayerMovement : MonoBehaviour
 
     
     private bool isJumping;
-    [SerializeField]
-    private bool isGrounded; 
-    
+
+    [HideInInspector]
+    public bool isGrounded;
+
+    [HideInInspector]
     public bool isClimbing;
 
     //take reference for the empty gameobject that follow the player
@@ -40,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
         
         //creat a float in witch we store the calculation of our movement
         horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed;
-        verticalMovement   = Input.GetAxis("Vertical")   * moveSpeed;
+        verticalMovement   = Input.GetAxis("Vertical")   * climbSpeed;
 
 
         //horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime; //deltatime is used to make the movment the same whenever the game is a 30fps, 60fps,..
@@ -56,6 +59,7 @@ public class PlayerMovement : MonoBehaviour
         // give to the animator the speed so wee can transition n the animation
         float charachterVelocity = math.abs((rb.velocity.x));
         animator.SetFloat("speed", charachterVelocity);
+        animator.SetBool("isClimbing", isClimbing);
     }
 
     void FixedUpdate() // we use fixed update beacause we use the rigid body of the player and the internat physics to move the player fixedupdate is in step with the physique engine of unity so everything that use physique should be in a fixed update
@@ -88,7 +92,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             // vertical movment on the ladder
-            Vector3 targetVelocity = new Vector2(rb.velocity.x, _verticalMovement);
+            Vector3 targetVelocity = new Vector2(0, _verticalMovement);
             rb.velocity = Vector3.SmoothDamp(rb.velocity, targetVelocity, ref velocity, 0.05f);
         }
     }

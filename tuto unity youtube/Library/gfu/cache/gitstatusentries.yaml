@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-05T13:04:15.729+01:00
-  initializedAtString: 2020-11-05T12:13:24.378+01:00
+  lastUpdatedAtString: 2020-11-05T15:15:14.666+01:00
+  initializedAtString: 2020-11-05T13:05:12.394+01:00
   entries:
   - path: tuto unity youtube\.vs\tuto unity youtube\v16\.suo
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\.vs\tuto unity
@@ -29,21 +29,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: tuto unity youtube\Assets\Import\TileSheet.png.meta
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Import\TileSheet.png.meta
-    projectPath: Assets\Import\TileSheet.png.meta
+  - path: tuto unity youtube\Assets\Animation\Player\player.controller
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Animation\Player\player.controller
+    projectPath: Assets\Animation\Player\player.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: tuto unity youtube\Assets\Animation\Player\PlayerClimbing.anim
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Animation\Player\PlayerClimbing.anim
+    projectPath: Assets\Animation\Player\PlayerClimbing.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Assets\Animation\Player\PlayerClimbing.anim.meta
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Animation\Player\PlayerClimbing.anim.meta
+    projectPath: Assets\Animation\Player\PlayerClimbing.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Assets\Ladder.cs
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Ladder.cs
     projectPath: Assets\Ladder.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Assets\Ladder.cs.meta
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Ladder.cs.meta
     projectPath: Assets\Ladder.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Assets\Prefabs\Ladder.prefab
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Prefabs\Ladder.prefab
+    projectPath: Assets\Prefabs\Ladder.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Assets\Prefabs\Ladder.prefab.meta
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Prefabs\Ladder.prefab.meta
+    projectPath: Assets\Prefabs\Ladder.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -53,15 +77,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: tuto unity youtube\Assets\Script\Ladder.cs
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Script\Ladder.cs
+    projectPath: Assets\Script\Ladder.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Assets\Script\Ladder.cs.meta
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Script\Ladder.cs.meta
+    projectPath: Assets\Script\Ladder.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Assets\Script\PlayerMovement.cs
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Assets\Script\PlayerMovement.cs
     projectPath: Assets\Script\PlayerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: tuto unity youtube\debug.log
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\debug.log
-    projectPath: debug.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -75,59 +105,101 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\02\02006a2feb7c4164a1abdc3ff99796a2
     projectPath: Library\Artifacts\02\02006a2feb7c4164a1abdc3ff99796a2
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\02\028bb1554b996809f5ea28ae1f5f1bef
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\02\028bb1554b996809f5ea28ae1f5f1bef
+    projectPath: Library\Artifacts\02\028bb1554b996809f5ea28ae1f5f1bef
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\06\06089753a8c7d54c8af898ebdef7671d
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\06\06089753a8c7d54c8af898ebdef7671d
-    projectPath: Library\Artifacts\06\06089753a8c7d54c8af898ebdef7671d
+  - path: tuto unity youtube\Library\Artifacts\02\02df03bdd8b7961fc0d1cd7e58e1449a
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\02\02df03bdd8b7961fc0d1cd7e58e1449a
+    projectPath: Library\Artifacts\02\02df03bdd8b7961fc0d1cd7e58e1449a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\10\10b628fb077c1b2cd3311c4b72ca5224
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\10\10b628fb077c1b2cd3311c4b72ca5224
-    projectPath: Library\Artifacts\10\10b628fb077c1b2cd3311c4b72ca5224
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\08\08f6618ba356b66187692eb5c41fed34
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\08\08f6618ba356b66187692eb5c41fed34
+    projectPath: Library\Artifacts\08\08f6618ba356b66187692eb5c41fed34
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\10\10df3153eb72e4069e484af6879499db
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\10\10df3153eb72e4069e484af6879499db
+    projectPath: Library\Artifacts\10\10df3153eb72e4069e484af6879499db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\11\11018a24d11e7c05613acca5ea0384ea
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\11\11018a24d11e7c05613acca5ea0384ea
     projectPath: Library\Artifacts\11\11018a24d11e7c05613acca5ea0384ea
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\15\15baa0fb71ec0cfba2cdef03c420d309
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\15\15baa0fb71ec0cfba2cdef03c420d309
+    projectPath: Library\Artifacts\15\15baa0fb71ec0cfba2cdef03c420d309
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\17\17435c3dc4980ed30977cfe3fa75cfbb
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\17\17435c3dc4980ed30977cfe3fa75cfbb
-    projectPath: Library\Artifacts\17\17435c3dc4980ed30977cfe3fa75cfbb
+  - path: tuto unity youtube\Library\Artifacts\18\18b58102753bdc77bd166d7dc1929db6
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\18\18b58102753bdc77bd166d7dc1929db6
+    projectPath: Library\Artifacts\18\18b58102753bdc77bd166d7dc1929db6
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\1c\1c9f213b137807fc5b0523711fd21479
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\1c\1c9f213b137807fc5b0523711fd21479
-    projectPath: Library\Artifacts\1c\1c9f213b137807fc5b0523711fd21479
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\20\201af3f8be8c11308a819d5d13ac50d7
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\20\201af3f8be8c11308a819d5d13ac50d7
     projectPath: Library\Artifacts\20\201af3f8be8c11308a819d5d13ac50d7
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\21\2178c621141f7954a18584f1e479a5b3
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\21\2178c621141f7954a18584f1e479a5b3
+    projectPath: Library\Artifacts\21\2178c621141f7954a18584f1e479a5b3
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\20\20f11ed19aed8fc310fbc843785f82f0
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\20\20f11ed19aed8fc310fbc843785f82f0
-    projectPath: Library\Artifacts\20\20f11ed19aed8fc310fbc843785f82f0
+  - path: tuto unity youtube\Library\Artifacts\21\21a6f8eafe05bae262eebf6a5e98a223
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\21\21a6f8eafe05bae262eebf6a5e98a223
+    projectPath: Library\Artifacts\21\21a6f8eafe05bae262eebf6a5e98a223
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\2b\2bbd4a7b7d028ce180e0a7c4d052637c
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\2b\2bbd4a7b7d028ce180e0a7c4d052637c
-    projectPath: Library\Artifacts\2b\2bbd4a7b7d028ce180e0a7c4d052637c
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\23\23c78d5e34e5d8925f4815dcdf564d34
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\23\23c78d5e34e5d8925f4815dcdf564d34
+    projectPath: Library\Artifacts\23\23c78d5e34e5d8925f4815dcdf564d34
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\34\34e7fef6b53959a2f9bc44b2547150a0
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\34\34e7fef6b53959a2f9bc44b2547150a0
-    projectPath: Library\Artifacts\34\34e7fef6b53959a2f9bc44b2547150a0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\23\23d4fa3f45d376c29d38661ab9f7a026
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\23\23d4fa3f45d376c29d38661ab9f7a026
+    projectPath: Library\Artifacts\23\23d4fa3f45d376c29d38661ab9f7a026
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\23\23e327ab194a7d743158e5cf2dfab677
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\23\23e327ab194a7d743158e5cf2dfab677
+    projectPath: Library\Artifacts\23\23e327ab194a7d743158e5cf2dfab677
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\2b\2ba4e674b323ba086d5ae7daed0148d4
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\2b\2ba4e674b323ba086d5ae7daed0148d4
+    projectPath: Library\Artifacts\2b\2ba4e674b323ba086d5ae7daed0148d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\34\34ec31e6a2a05578ebb0be4fce1d959c
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\34\34ec31e6a2a05578ebb0be4fce1d959c
+    projectPath: Library\Artifacts\34\34ec31e6a2a05578ebb0be4fce1d959c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\39\39cbb8cb2e3389635c5a1671fa8ed830
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\39\39cbb8cb2e3389635c5a1671fa8ed830
+    projectPath: Library\Artifacts\39\39cbb8cb2e3389635c5a1671fa8ed830
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -135,29 +207,29 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\39\39ffe159bca95155a8ebd6602db572da
     projectPath: Library\Artifacts\39\39ffe159bca95155a8ebd6602db572da
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\3a\3ab5c57059e1f4484f83f22915ab0609
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\3a\3ab5c57059e1f4484f83f22915ab0609
     projectPath: Library\Artifacts\3a\3ab5c57059e1f4484f83f22915ab0609
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\3b\3b8997c2ed91f0f0eb128c4474ce1f98
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\3b\3b8997c2ed91f0f0eb128c4474ce1f98
     projectPath: Library\Artifacts\3b\3b8997c2ed91f0f0eb128c4474ce1f98
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\3e\3ee9e0cf84504d98fe589a0c8f648092
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\3e\3ee9e0cf84504d98fe589a0c8f648092
-    projectPath: Library\Artifacts\3e\3ee9e0cf84504d98fe589a0c8f648092
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\47\47c53255ebf86ecb60c76199997c1760
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\47\47c53255ebf86ecb60c76199997c1760
-    projectPath: Library\Artifacts\47\47c53255ebf86ecb60c76199997c1760
+  - path: tuto unity youtube\Library\Artifacts\43\43a85033ba29d80cae198be65aa5f716
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\43\43a85033ba29d80cae198be65aa5f716
+    projectPath: Library\Artifacts\43\43a85033ba29d80cae198be65aa5f716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\4a\4ae20f75348026bed825fca887c2382d
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\4a\4ae20f75348026bed825fca887c2382d
+    projectPath: Library\Artifacts\4a\4ae20f75348026bed825fca887c2382d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -165,29 +237,11 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\4b\4b232e733e66e73cf07b859c9becc28b
     projectPath: Library\Artifacts\4b\4b232e733e66e73cf07b859c9becc28b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\4d\4d16f9ad2c7591e76d5f7a49371404a9
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\4d\4d16f9ad2c7591e76d5f7a49371404a9
     projectPath: Library\Artifacts\4d\4d16f9ad2c7591e76d5f7a49371404a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\4d\4d9b24167d0c267bfb639c71a5f21412
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\4d\4d9b24167d0c267bfb639c71a5f21412
-    projectPath: Library\Artifacts\4d\4d9b24167d0c267bfb639c71a5f21412
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\4f\4ff5d6e45ec3ef8d80ec782d9e383c28
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\4f\4ff5d6e45ec3ef8d80ec782d9e383c28
-    projectPath: Library\Artifacts\4f\4ff5d6e45ec3ef8d80ec782d9e383c28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\52\52d4acdb95ffaa7aee09e121977f6032
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\52\52d4acdb95ffaa7aee09e121977f6032
-    projectPath: Library\Artifacts\52\52d4acdb95ffaa7aee09e121977f6032
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -195,11 +249,35 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\52\52e14370fc2999b4c87a74f7f02586df
     projectPath: Library\Artifacts\52\52e14370fc2999b4c87a74f7f02586df
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\5c\5c08019f4d73d334dedec09dc2bfcc1b
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\5c\5c08019f4d73d334dedec09dc2bfcc1b
+    projectPath: Library\Artifacts\5c\5c08019f4d73d334dedec09dc2bfcc1b
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\60\602f00d2032d06dbb0de0d40755fb11a
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\60\602f00d2032d06dbb0de0d40755fb11a
-    projectPath: Library\Artifacts\60\602f00d2032d06dbb0de0d40755fb11a
+  - path: tuto unity youtube\Library\Artifacts\5c\5c4f024e39a27bc1724d89d364faa3ad
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\5c\5c4f024e39a27bc1724d89d364faa3ad
+    projectPath: Library\Artifacts\5c\5c4f024e39a27bc1724d89d364faa3ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\5d\5da6402f1b691c045014a908de1839ec
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\5d\5da6402f1b691c045014a908de1839ec
+    projectPath: Library\Artifacts\5d\5da6402f1b691c045014a908de1839ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\60\606b525c79e56beec7249f8fab484591
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\60\606b525c79e56beec7249f8fab484591
+    projectPath: Library\Artifacts\60\606b525c79e56beec7249f8fab484591
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\61\615958d0b01638c8681c20f28565bac6
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\61\615958d0b01638c8681c20f28565bac6
+    projectPath: Library\Artifacts\61\615958d0b01638c8681c20f28565bac6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -207,77 +285,71 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\62\620ebe396d3c4c4a3cccd14eb34a9008
     projectPath: Library\Artifacts\62\620ebe396d3c4c4a3cccd14eb34a9008
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\63\634d26b852ce2e17454f50477027c494
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\63\634d26b852ce2e17454f50477027c494
     projectPath: Library\Artifacts\63\634d26b852ce2e17454f50477027c494
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\64\640ae7a2fbd24d0c367134d5cadeb613
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\64\640ae7a2fbd24d0c367134d5cadeb613
-    projectPath: Library\Artifacts\64\640ae7a2fbd24d0c367134d5cadeb613
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\66\6659fa45dfbe260e1b2d4c0779ac1257
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\66\6659fa45dfbe260e1b2d4c0779ac1257
-    projectPath: Library\Artifacts\66\6659fa45dfbe260e1b2d4c0779ac1257
+  - path: tuto unity youtube\Library\Artifacts\6a\6a05aa9c710e37a0e21c0a69ad5e6c7d
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\6a\6a05aa9c710e37a0e21c0a69ad5e6c7d
+    projectPath: Library\Artifacts\6a\6a05aa9c710e37a0e21c0a69ad5e6c7d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\67\671c021c768cad5cc1781f992c5b1b7a
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\67\671c021c768cad5cc1781f992c5b1b7a
-    projectPath: Library\Artifacts\67\671c021c768cad5cc1781f992c5b1b7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\6b\6bc673068781a855a2bcee3e323513f7
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\6b\6bc673068781a855a2bcee3e323513f7
-    projectPath: Library\Artifacts\6b\6bc673068781a855a2bcee3e323513f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\71\718cd00428632e7c19498f81f5d6da28
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\71\718cd00428632e7c19498f81f5d6da28
-    projectPath: Library\Artifacts\71\718cd00428632e7c19498f81f5d6da28
+  - path: tuto unity youtube\Library\Artifacts\77\77e85738e8f4f4db6a74e9aaa05c024a
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\77\77e85738e8f4f4db6a74e9aaa05c024a
+    projectPath: Library\Artifacts\77\77e85738e8f4f4db6a74e9aaa05c024a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\75\75c132014232ec87628ed339266c2d58
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\75\75c132014232ec87628ed339266c2d58
-    projectPath: Library\Artifacts\75\75c132014232ec87628ed339266c2d58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\79\79f070ee7d371f1ea66bc4a5c82f9698
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\79\79f070ee7d371f1ea66bc4a5c82f9698
     projectPath: Library\Artifacts\79\79f070ee7d371f1ea66bc4a5c82f9698
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\7b\7bd999d6227e81a721ff450dc3d93c1b
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\7b\7bd999d6227e81a721ff450dc3d93c1b
+    projectPath: Library\Artifacts\7b\7bd999d6227e81a721ff450dc3d93c1b
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\82\82a09d2899d7850c2be30b73937f153b
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\82\82a09d2899d7850c2be30b73937f153b
-    projectPath: Library\Artifacts\82\82a09d2899d7850c2be30b73937f153b
+  - path: tuto unity youtube\Library\Artifacts\81\81f498362e8ce5ad1d8838b48a50fb53
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\81\81f498362e8ce5ad1d8838b48a50fb53
+    projectPath: Library\Artifacts\81\81f498362e8ce5ad1d8838b48a50fb53
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\86\86df2875f9dfd3f8455c992ac8f1ac05
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\86\86df2875f9dfd3f8455c992ac8f1ac05
-    projectPath: Library\Artifacts\86\86df2875f9dfd3f8455c992ac8f1ac05
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\85\852951564ae24190dc0c23b9f081f444
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\85\852951564ae24190dc0c23b9f081f444
+    projectPath: Library\Artifacts\85\852951564ae24190dc0c23b9f081f444
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\90\90a96d2632632a605e7ca33a4f039d46
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\90\90a96d2632632a605e7ca33a4f039d46
-    projectPath: Library\Artifacts\90\90a96d2632632a605e7ca33a4f039d46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\92\92053ab8848f1734aa67cd000c814392
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\92\92053ab8848f1734aa67cd000c814392
     projectPath: Library\Artifacts\92\92053ab8848f1734aa67cd000c814392
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\96\96d6328e95fb0fd30da6930402ac88f7
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\96\96d6328e95fb0fd30da6930402ac88f7
+    projectPath: Library\Artifacts\96\96d6328e95fb0fd30da6930402ac88f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\97\973680c52450e16eadafae6b8cf7bab1
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\97\973680c52450e16eadafae6b8cf7bab1
+    projectPath: Library\Artifacts\97\973680c52450e16eadafae6b8cf7bab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\97\97888a3fbe3f0a6ee25234b59e6a9569
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\97\97888a3fbe3f0a6ee25234b59e6a9569
+    projectPath: Library\Artifacts\97\97888a3fbe3f0a6ee25234b59e6a9569
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -285,77 +357,119 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\97\97c7b7050498a59c155be4aa37bee779
     projectPath: Library\Artifacts\97\97c7b7050498a59c155be4aa37bee779
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\98\98e807e8b70a27281a4f17958bae64ac
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\98\98e807e8b70a27281a4f17958bae64ac
+    projectPath: Library\Artifacts\98\98e807e8b70a27281a4f17958bae64ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\99\997094d24cb48b5596328ff95c27c0ad
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\99\997094d24cb48b5596328ff95c27c0ad
+    projectPath: Library\Artifacts\99\997094d24cb48b5596328ff95c27c0ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\9e\9ea37081758ba2c9fe93b7dd886527b7
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\9e\9ea37081758ba2c9fe93b7dd886527b7
+    projectPath: Library\Artifacts\9e\9ea37081758ba2c9fe93b7dd886527b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\a0\a05e7f050c1344c5348605359935b8ce
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a0\a05e7f050c1344c5348605359935b8ce
+    projectPath: Library\Artifacts\a0\a05e7f050c1344c5348605359935b8ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\a2\a247976223c9a4be9006c9a4d0e063a3
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a2\a247976223c9a4be9006c9a4d0e063a3
+    projectPath: Library\Artifacts\a2\a247976223c9a4be9006c9a4d0e063a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\a4\a4b7e9626b3650334125f1cf4887a8e6
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a4\a4b7e9626b3650334125f1cf4887a8e6
+    projectPath: Library\Artifacts\a4\a4b7e9626b3650334125f1cf4887a8e6
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\a7\a73532f2f9deba548da8a0e52b0c21a0
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a7\a73532f2f9deba548da8a0e52b0c21a0
     projectPath: Library\Artifacts\a7\a73532f2f9deba548da8a0e52b0c21a0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\ae\ae834a68ae2dc9a7af0c1b264d657631
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\ae\ae834a68ae2dc9a7af0c1b264d657631
-    projectPath: Library\Artifacts\ae\ae834a68ae2dc9a7af0c1b264d657631
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\a7\a785fe4cb2d535985b7967807a5be717
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a7\a785fe4cb2d535985b7967807a5be717
+    projectPath: Library\Artifacts\a7\a785fe4cb2d535985b7967807a5be717
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\a8\a8042c3f87bd330153fba49b218829aa
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\a8\a8042c3f87bd330153fba49b218829aa
+    projectPath: Library\Artifacts\a8\a8042c3f87bd330153fba49b218829aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\aa\aad58d5d2aca092f2930ac88071df29b
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\aa\aad58d5d2aca092f2930ac88071df29b
+    projectPath: Library\Artifacts\aa\aad58d5d2aca092f2930ac88071df29b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\af\afb2221685b6e8884064dd676509801c
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\af\afb2221685b6e8884064dd676509801c
     projectPath: Library\Artifacts\af\afb2221685b6e8884064dd676509801c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\b2\b240a2bc52cb7e047dc37d611e9dcf08
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\b2\b240a2bc52cb7e047dc37d611e9dcf08
     projectPath: Library\Artifacts\b2\b240a2bc52cb7e047dc37d611e9dcf08
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\b5\b59dcbd4c0e22e187c4ce14c24a91f82
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\b5\b59dcbd4c0e22e187c4ce14c24a91f82
-    projectPath: Library\Artifacts\b5\b59dcbd4c0e22e187c4ce14c24a91f82
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\b6\b6684dac3f9810738a0c9aa7d4531a7b
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\b6\b6684dac3f9810738a0c9aa7d4531a7b
     projectPath: Library\Artifacts\b6\b6684dac3f9810738a0c9aa7d4531a7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\bb\bb926490f80e85e92ed875fc35af26db
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\bb\bb926490f80e85e92ed875fc35af26db
-    projectPath: Library\Artifacts\bb\bb926490f80e85e92ed875fc35af26db
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\c5\c522346cdf40a6f38121e6b60ca473cb
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\c5\c522346cdf40a6f38121e6b60ca473cb
+    projectPath: Library\Artifacts\c5\c522346cdf40a6f38121e6b60ca473cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\c7\c7e20a3486ba0c4770b6d843ae51e191
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\c7\c7e20a3486ba0c4770b6d843ae51e191
     projectPath: Library\Artifacts\c7\c7e20a3486ba0c4770b6d843ae51e191
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\cf\cf3d07ebc625e2e1acf4e37101fba7d2
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\cf\cf3d07ebc625e2e1acf4e37101fba7d2
-    projectPath: Library\Artifacts\cf\cf3d07ebc625e2e1acf4e37101fba7d2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\cf\cfb08b1206daf4799037ce75728c4fd9
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\cf\cfb08b1206daf4799037ce75728c4fd9
-    projectPath: Library\Artifacts\cf\cfb08b1206daf4799037ce75728c4fd9
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: tuto unity youtube\Library\Artifacts\dc\dc3be6ab84971ee2b6ec651ee0a3b5d3
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\dc\dc3be6ab84971ee2b6ec651ee0a3b5d3
-    projectPath: Library\Artifacts\dc\dc3be6ab84971ee2b6ec651ee0a3b5d3
+  - path: tuto unity youtube\Library\Artifacts\d6\d67a4607e8e1396132400097c8b8f131
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\d6\d67a4607e8e1396132400097c8b8f131
+    projectPath: Library\Artifacts\d6\d67a4607e8e1396132400097c8b8f131
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Library\Artifacts\dc\dc5d44a9d91f218d57673f829d390526
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\dc\dc5d44a9d91f218d57673f829d390526
+    projectPath: Library\Artifacts\dc\dc5d44a9d91f218d57673f829d390526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\de\de3d047db1f1cd559bf2f1354574e069
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\de\de3d047db1f1cd559bf2f1354574e069
     projectPath: Library\Artifacts\de\de3d047db1f1cd559bf2f1354574e069
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\df\df5d5034e16245b2b8065b4037a24def
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\df\df5d5034e16245b2b8065b4037a24def
+    projectPath: Library\Artifacts\df\df5d5034e16245b2b8065b4037a24def
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -363,17 +477,17 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\df\dfe6ee8d9431fbcd4005857eb1980ead
     projectPath: Library\Artifacts\df\dfe6ee8d9431fbcd4005857eb1980ead
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\e0\e05a28af6f1433eab25cf014c00a130b
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\e0\e05a28af6f1433eab25cf014c00a130b
+    projectPath: Library\Artifacts\e0\e05a28af6f1433eab25cf014c00a130b
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\e5\e5695104f6e7ce616602c64ea2213f7b
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\e5\e5695104f6e7ce616602c64ea2213f7b
     projectPath: Library\Artifacts\e5\e5695104f6e7ce616602c64ea2213f7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\e9\e9f8c1a3d1d19c0bdd975949916fd2ed
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\e9\e9f8c1a3d1d19c0bdd975949916fd2ed
-    projectPath: Library\Artifacts\e9\e9f8c1a3d1d19c0bdd975949916fd2ed
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -381,11 +495,23 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\ea\eac915ab95f37c2386216c5bcbe596cd
     projectPath: Library\Artifacts\ea\eac915ab95f37c2386216c5bcbe596cd
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\ec\ecbeb957fd26ad59f464e8be859fc9c0
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\ec\ecbeb957fd26ad59f464e8be859fc9c0
+    projectPath: Library\Artifacts\ec\ecbeb957fd26ad59f464e8be859fc9c0
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\ed\edc65a15d98f97d5b12832508455d768
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\ed\edc65a15d98f97d5b12832508455d768
     projectPath: Library\Artifacts\ed\edc65a15d98f97d5b12832508455d768
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\f0\f0aa177b71bf219fead50ce59e5c0c03
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f0\f0aa177b71bf219fead50ce59e5c0c03
+    projectPath: Library\Artifacts\f0\f0aa177b71bf219fead50ce59e5c0c03
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -393,32 +519,32 @@ MonoBehaviour:
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f1\f1eaf9cdfd55135e9b0195899653ea6f
     projectPath: Library\Artifacts\f1\f1eaf9cdfd55135e9b0195899653ea6f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\f9\f942b15b837d01c079291c22157d4788
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f9\f942b15b837d01c079291c22157d4788
     projectPath: Library\Artifacts\f9\f942b15b837d01c079291c22157d4788
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\Artifacts\f9\f98fd6100009cd564a00778540d63d32
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f9\f98fd6100009cd564a00778540d63d32
     projectPath: Library\Artifacts\f9\f98fd6100009cd564a00778540d63d32
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: tuto unity youtube\Library\Artifacts\f9\f9c632cf100fdf40f6df665b6693bd57
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f9\f9c632cf100fdf40f6df665b6693bd57
-    projectPath: Library\Artifacts\f9\f9c632cf100fdf40f6df665b6693bd57
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: tuto unity youtube\Library\Artifacts\f9\f9b0bb00beefba4e36dfdbff781d9a2d
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\f9\f9b0bb00beefba4e36dfdbff781d9a2d
+    projectPath: Library\Artifacts\f9\f9b0bb00beefba4e36dfdbff781d9a2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: tuto unity youtube\Library\Artifacts\fb\fb3b418cdf9294f0ea5d13d15f1e98c7
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\Artifacts\fb\fb3b418cdf9294f0ea5d13d15f1e98c7
     projectPath: Library\Artifacts\fb\fb3b418cdf9294f0ea5d13d15f1e98c7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: tuto unity youtube\Library\EditorInstance.json
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -458,12 +584,6 @@ MonoBehaviour:
   - path: tuto unity youtube\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: tuto unity youtube\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -509,9 +629,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: tuto unity youtube\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+  - path: tuto unity youtube\ProjectSettings\TagManager.asset
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -527,183 +647,249 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-018b54c3196978249b671e75d082f88b
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-018b54c3196978249b671e75d082f88b
-    projectPath: Temp\UnityTempFile-018b54c3196978249b671e75d082f88b
+  - path: tuto unity youtube\Temp\UnityTempFile-072969117060c7c4aa29ad5572c08968
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-072969117060c7c4aa29ad5572c08968
+    projectPath: Temp\UnityTempFile-072969117060c7c4aa29ad5572c08968
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-02b4b46cbfdefa842b076247f6214a89
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-02b4b46cbfdefa842b076247f6214a89
-    projectPath: Temp\UnityTempFile-02b4b46cbfdefa842b076247f6214a89
+  - path: tuto unity youtube\Temp\UnityTempFile-097da9f2eff056d47bd0d9e14e17eee9
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-097da9f2eff056d47bd0d9e14e17eee9
+    projectPath: Temp\UnityTempFile-097da9f2eff056d47bd0d9e14e17eee9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-16ea844fd3d291f43b8b5101c5f7b1f2
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-16ea844fd3d291f43b8b5101c5f7b1f2
-    projectPath: Temp\UnityTempFile-16ea844fd3d291f43b8b5101c5f7b1f2
+  - path: tuto unity youtube\Temp\UnityTempFile-09fa858be3b00db4db6e2f5a6e4f98b2
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-09fa858be3b00db4db6e2f5a6e4f98b2
+    projectPath: Temp\UnityTempFile-09fa858be3b00db4db6e2f5a6e4f98b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-190d02bdc03359d41bb8f99b7471fdfe
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-190d02bdc03359d41bb8f99b7471fdfe
-    projectPath: Temp\UnityTempFile-190d02bdc03359d41bb8f99b7471fdfe
+  - path: tuto unity youtube\Temp\UnityTempFile-0a9cdfaa052b59b4285a8d04383c8e7f
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-0a9cdfaa052b59b4285a8d04383c8e7f
+    projectPath: Temp\UnityTempFile-0a9cdfaa052b59b4285a8d04383c8e7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-27b836d42706a7346af1bb7c3087d6b3
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-27b836d42706a7346af1bb7c3087d6b3
-    projectPath: Temp\UnityTempFile-27b836d42706a7346af1bb7c3087d6b3
+  - path: tuto unity youtube\Temp\UnityTempFile-12d642e303d4a0f459128bebc12a9f7f
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-12d642e303d4a0f459128bebc12a9f7f
+    projectPath: Temp\UnityTempFile-12d642e303d4a0f459128bebc12a9f7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-2bafeb2692af6034698ad1da1fe7188b
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-2bafeb2692af6034698ad1da1fe7188b
-    projectPath: Temp\UnityTempFile-2bafeb2692af6034698ad1da1fe7188b
+  - path: tuto unity youtube\Temp\UnityTempFile-2555718ad4eb99a49a2dfcffdae75c5c
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-2555718ad4eb99a49a2dfcffdae75c5c
+    projectPath: Temp\UnityTempFile-2555718ad4eb99a49a2dfcffdae75c5c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-4292db850c520a946a9e49d47c94194e
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4292db850c520a946a9e49d47c94194e
-    projectPath: Temp\UnityTempFile-4292db850c520a946a9e49d47c94194e
+  - path: tuto unity youtube\Temp\UnityTempFile-27ceb679c7a98d446990de51de2becdf
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-27ceb679c7a98d446990de51de2becdf
+    projectPath: Temp\UnityTempFile-27ceb679c7a98d446990de51de2becdf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-4434c653e0885db448b9b6b41df9a30b
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4434c653e0885db448b9b6b41df9a30b
-    projectPath: Temp\UnityTempFile-4434c653e0885db448b9b6b41df9a30b
+  - path: tuto unity youtube\Temp\UnityTempFile-2d9d8cea490f94c4f803ffb6254f1313
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-2d9d8cea490f94c4f803ffb6254f1313
+    projectPath: Temp\UnityTempFile-2d9d8cea490f94c4f803ffb6254f1313
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-4e52d0d28c3e9334da4cd16e478738dc
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4e52d0d28c3e9334da4cd16e478738dc
-    projectPath: Temp\UnityTempFile-4e52d0d28c3e9334da4cd16e478738dc
+  - path: tuto unity youtube\Temp\UnityTempFile-347104e53d451144c9fa8457ce3dcd86
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-347104e53d451144c9fa8457ce3dcd86
+    projectPath: Temp\UnityTempFile-347104e53d451144c9fa8457ce3dcd86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-686c62418aa79d24396206e3e8c4051f
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-686c62418aa79d24396206e3e8c4051f
-    projectPath: Temp\UnityTempFile-686c62418aa79d24396206e3e8c4051f
+  - path: tuto unity youtube\Temp\UnityTempFile-34726663b9c62a14c8ba50839ea91e38
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-34726663b9c62a14c8ba50839ea91e38
+    projectPath: Temp\UnityTempFile-34726663b9c62a14c8ba50839ea91e38
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-717240ce0b7b14e47b94c52892999cf2
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-717240ce0b7b14e47b94c52892999cf2
-    projectPath: Temp\UnityTempFile-717240ce0b7b14e47b94c52892999cf2
+  - path: tuto unity youtube\Temp\UnityTempFile-367a0dcfd2c48184a95d7859dbf81f75
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-367a0dcfd2c48184a95d7859dbf81f75
+    projectPath: Temp\UnityTempFile-367a0dcfd2c48184a95d7859dbf81f75
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-7a39df404fa4a794d8eb52b5f586f5c9
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-7a39df404fa4a794d8eb52b5f586f5c9
-    projectPath: Temp\UnityTempFile-7a39df404fa4a794d8eb52b5f586f5c9
+  - path: tuto unity youtube\Temp\UnityTempFile-3c302c80c22639d47b2ed48ce214d38d
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-3c302c80c22639d47b2ed48ce214d38d
+    projectPath: Temp\UnityTempFile-3c302c80c22639d47b2ed48ce214d38d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-882ed4d1a9ab5a4459b3bb30a585462f
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-882ed4d1a9ab5a4459b3bb30a585462f
-    projectPath: Temp\UnityTempFile-882ed4d1a9ab5a4459b3bb30a585462f
+  - path: tuto unity youtube\Temp\UnityTempFile-3df45b73e78f6da4882a3858f6371fbe
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-3df45b73e78f6da4882a3858f6371fbe
+    projectPath: Temp\UnityTempFile-3df45b73e78f6da4882a3858f6371fbe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-986c0ce2fe52aae4bb6bb571e5078411
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-986c0ce2fe52aae4bb6bb571e5078411
-    projectPath: Temp\UnityTempFile-986c0ce2fe52aae4bb6bb571e5078411
+  - path: tuto unity youtube\Temp\UnityTempFile-490d80ed705a0124a9143f2b92897e12
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-490d80ed705a0124a9143f2b92897e12
+    projectPath: Temp\UnityTempFile-490d80ed705a0124a9143f2b92897e12
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-989f036d8c2fbcc44bb2ba83ad668bc3
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-989f036d8c2fbcc44bb2ba83ad668bc3
-    projectPath: Temp\UnityTempFile-989f036d8c2fbcc44bb2ba83ad668bc3
+  - path: tuto unity youtube\Temp\UnityTempFile-4a9afe20a9af29843ae9b0d1e5621e0a
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4a9afe20a9af29843ae9b0d1e5621e0a
+    projectPath: Temp\UnityTempFile-4a9afe20a9af29843ae9b0d1e5621e0a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-99b5e70b9a30a3b43bd473054b932b9f
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-99b5e70b9a30a3b43bd473054b932b9f
-    projectPath: Temp\UnityTempFile-99b5e70b9a30a3b43bd473054b932b9f
+  - path: tuto unity youtube\Temp\UnityTempFile-4c37a42000d1f8b40860ab8564dc332e
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4c37a42000d1f8b40860ab8564dc332e
+    projectPath: Temp\UnityTempFile-4c37a42000d1f8b40860ab8564dc332e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-9e9324d17433be043b2d95b7a2ffaf59
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-9e9324d17433be043b2d95b7a2ffaf59
-    projectPath: Temp\UnityTempFile-9e9324d17433be043b2d95b7a2ffaf59
+  - path: tuto unity youtube\Temp\UnityTempFile-4c4fecbb4dd32d14bb7c2be107c2cac0
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4c4fecbb4dd32d14bb7c2be107c2cac0
+    projectPath: Temp\UnityTempFile-4c4fecbb4dd32d14bb7c2be107c2cac0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-9f7d03a587c12924985751d4ea3f1e12
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-9f7d03a587c12924985751d4ea3f1e12
-    projectPath: Temp\UnityTempFile-9f7d03a587c12924985751d4ea3f1e12
+  - path: tuto unity youtube\Temp\UnityTempFile-4e24c78d720cb914093ac51dab2d7f26
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-4e24c78d720cb914093ac51dab2d7f26
+    projectPath: Temp\UnityTempFile-4e24c78d720cb914093ac51dab2d7f26
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-a40f4e9cf5708174bbbe6785b5e96c76
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-a40f4e9cf5708174bbbe6785b5e96c76
-    projectPath: Temp\UnityTempFile-a40f4e9cf5708174bbbe6785b5e96c76
+  - path: tuto unity youtube\Temp\UnityTempFile-5372eca005fbe5e44b01303de93e9bfe
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-5372eca005fbe5e44b01303de93e9bfe
+    projectPath: Temp\UnityTempFile-5372eca005fbe5e44b01303de93e9bfe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-a641b1ebe5c582b4c874705f2329996a
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-a641b1ebe5c582b4c874705f2329996a
-    projectPath: Temp\UnityTempFile-a641b1ebe5c582b4c874705f2329996a
+  - path: tuto unity youtube\Temp\UnityTempFile-6177a97091757374580048f061f3aa2e
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-6177a97091757374580048f061f3aa2e
+    projectPath: Temp\UnityTempFile-6177a97091757374580048f061f3aa2e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-b47cfe2bc4bdaef4dafd238e0b6c9b83
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-b47cfe2bc4bdaef4dafd238e0b6c9b83
-    projectPath: Temp\UnityTempFile-b47cfe2bc4bdaef4dafd238e0b6c9b83
+  - path: tuto unity youtube\Temp\UnityTempFile-65ac109754a0c074eb7d87e5c6a30973
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-65ac109754a0c074eb7d87e5c6a30973
+    projectPath: Temp\UnityTempFile-65ac109754a0c074eb7d87e5c6a30973
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-b5af4b875c4c8f8488bdffcc9504d5f9
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-b5af4b875c4c8f8488bdffcc9504d5f9
-    projectPath: Temp\UnityTempFile-b5af4b875c4c8f8488bdffcc9504d5f9
+  - path: tuto unity youtube\Temp\UnityTempFile-6c89a6a87c74aaa46b9cd48e3705b9bf
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-6c89a6a87c74aaa46b9cd48e3705b9bf
+    projectPath: Temp\UnityTempFile-6c89a6a87c74aaa46b9cd48e3705b9bf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-b757504b916a38740a81571a3f03ab68
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-b757504b916a38740a81571a3f03ab68
-    projectPath: Temp\UnityTempFile-b757504b916a38740a81571a3f03ab68
+  - path: tuto unity youtube\Temp\UnityTempFile-75e742badd06f314cb369d884ec7f78a
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-75e742badd06f314cb369d884ec7f78a
+    projectPath: Temp\UnityTempFile-75e742badd06f314cb369d884ec7f78a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-bc4924e5abf225a4988a2743285bdc5f
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-bc4924e5abf225a4988a2743285bdc5f
-    projectPath: Temp\UnityTempFile-bc4924e5abf225a4988a2743285bdc5f
+  - path: tuto unity youtube\Temp\UnityTempFile-7e84db0fb9c9be444a446e8d45ca118f
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-7e84db0fb9c9be444a446e8d45ca118f
+    projectPath: Temp\UnityTempFile-7e84db0fb9c9be444a446e8d45ca118f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-c3505250f91aa4e459ff75986d748d50
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-c3505250f91aa4e459ff75986d748d50
-    projectPath: Temp\UnityTempFile-c3505250f91aa4e459ff75986d748d50
+  - path: tuto unity youtube\Temp\UnityTempFile-7f9ea74343d312b49b77320ac8f950eb
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-7f9ea74343d312b49b77320ac8f950eb
+    projectPath: Temp\UnityTempFile-7f9ea74343d312b49b77320ac8f950eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-c4b8163f0960c0e49a4a1914524a4cee
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-c4b8163f0960c0e49a4a1914524a4cee
-    projectPath: Temp\UnityTempFile-c4b8163f0960c0e49a4a1914524a4cee
+  - path: tuto unity youtube\Temp\UnityTempFile-847308374592e2743b47db045d615f1e
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-847308374592e2743b47db045d615f1e
+    projectPath: Temp\UnityTempFile-847308374592e2743b47db045d615f1e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-c8c74eab9caf66d4faafc66c8b1a6edb
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-c8c74eab9caf66d4faafc66c8b1a6edb
-    projectPath: Temp\UnityTempFile-c8c74eab9caf66d4faafc66c8b1a6edb
+  - path: tuto unity youtube\Temp\UnityTempFile-873fe04d8f9bb72419cb50d056082ea9
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-873fe04d8f9bb72419cb50d056082ea9
+    projectPath: Temp\UnityTempFile-873fe04d8f9bb72419cb50d056082ea9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-e99f8fde1a84d584e9ece75b8cdf341d
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-e99f8fde1a84d584e9ece75b8cdf341d
-    projectPath: Temp\UnityTempFile-e99f8fde1a84d584e9ece75b8cdf341d
+  - path: tuto unity youtube\Temp\UnityTempFile-8f6ff5f7d8457584b969477e0403ae3e
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-8f6ff5f7d8457584b969477e0403ae3e
+    projectPath: Temp\UnityTempFile-8f6ff5f7d8457584b969477e0403ae3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-f234a810ea45be34a87713ef353d544c
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-f234a810ea45be34a87713ef353d544c
-    projectPath: Temp\UnityTempFile-f234a810ea45be34a87713ef353d544c
+  - path: tuto unity youtube\Temp\UnityTempFile-996ef9bf4d1f18146a28e68b5e8b3ec1
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-996ef9bf4d1f18146a28e68b5e8b3ec1
+    projectPath: Temp\UnityTempFile-996ef9bf4d1f18146a28e68b5e8b3ec1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: tuto unity youtube\Temp\UnityTempFile-f861790895b2390468e213fa7611eee1
-    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-f861790895b2390468e213fa7611eee1
-    projectPath: Temp\UnityTempFile-f861790895b2390468e213fa7611eee1
+  - path: tuto unity youtube\Temp\UnityTempFile-9db4ead04114cd14ead444091b027391
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-9db4ead04114cd14ead444091b027391
+    projectPath: Temp\UnityTempFile-9db4ead04114cd14ead444091b027391
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-b064e6fb5ef6c9245b56179554296fe5
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-b064e6fb5ef6c9245b56179554296fe5
+    projectPath: Temp\UnityTempFile-b064e6fb5ef6c9245b56179554296fe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-b8a1d69c543eb704a975c7947345f812
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-b8a1d69c543eb704a975c7947345f812
+    projectPath: Temp\UnityTempFile-b8a1d69c543eb704a975c7947345f812
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-bda5a26305579164ebaacf96e0a5fc98
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-bda5a26305579164ebaacf96e0a5fc98
+    projectPath: Temp\UnityTempFile-bda5a26305579164ebaacf96e0a5fc98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-c46bd3c167c4e5f4c8e3d27befe13350
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-c46bd3c167c4e5f4c8e3d27befe13350
+    projectPath: Temp\UnityTempFile-c46bd3c167c4e5f4c8e3d27befe13350
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-c4cb7e67d0b8a2948b5f6d17b8e8eb27
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-c4cb7e67d0b8a2948b5f6d17b8e8eb27
+    projectPath: Temp\UnityTempFile-c4cb7e67d0b8a2948b5f6d17b8e8eb27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-cbc52b9df06363840b94a578f5ef6489
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-cbc52b9df06363840b94a578f5ef6489
+    projectPath: Temp\UnityTempFile-cbc52b9df06363840b94a578f5ef6489
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-dd8dd192adee89046a6934d72b34a15c
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-dd8dd192adee89046a6934d72b34a15c
+    projectPath: Temp\UnityTempFile-dd8dd192adee89046a6934d72b34a15c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-de1a32cd09311ed468d9716b941e33de
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-de1a32cd09311ed468d9716b941e33de
+    projectPath: Temp\UnityTempFile-de1a32cd09311ed468d9716b941e33de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-e2c46672cc4c4cc40af2761e7fbb6a63
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-e2c46672cc4c4cc40af2761e7fbb6a63
+    projectPath: Temp\UnityTempFile-e2c46672cc4c4cc40af2761e7fbb6a63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-ee98cf8062f11b844b526d637327ee5e
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-ee98cf8062f11b844b526d637327ee5e
+    projectPath: Temp\UnityTempFile-ee98cf8062f11b844b526d637327ee5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tuto unity youtube\Temp\UnityTempFile-fa6782bf1fc25384e941f36435092885
+    fullPath: D:\GameMaking\ZTuto\_____tuto_unity\tuto unity youtube\Temp\UnityTempFile-fa6782bf1fc25384e941f36435092885
+    projectPath: Temp\UnityTempFile-fa6782bf1fc25384e941f36435092885
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
