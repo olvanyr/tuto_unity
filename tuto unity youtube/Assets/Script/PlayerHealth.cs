@@ -96,7 +96,7 @@ public class PlayerHealth : MonoBehaviour
         // remove physics interaction with everything else
         PlayerMovement.instance.rb.bodyType = RigidbodyType2D.Kinematic;
         PlayerMovement.instance.playerCol.enabled = false;
-        PlayerMovement.instance.rb.velocity = new Vector3(0,0,0);
+        PlayerMovement.instance.rb.velocity = Vector3.zero;
 
         //handle the menu
         GameOverManager.instance.OnPlayerDeath();

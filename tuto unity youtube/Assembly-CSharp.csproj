@@ -75,10 +75,12 @@
     <Compile Include="Assets\Script\Inventory.cs" />
     <Compile Include="Assets\Script\Ladder.cs" />
     <Compile Include="Assets\Script\LoadSpecificScene.cs" />
+    <Compile Include="Assets\Script\MainMenu.cs" />
     <Compile Include="Assets\Script\PickUpObject.cs" />
     <Compile Include="Assets\Script\PlayerHealth.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\PlayerSpawn.cs" />
+    <Compile Include="Assets\Script\SettingsMenu.cs" />
     <Compile Include="Assets\Script\WeakPoint.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

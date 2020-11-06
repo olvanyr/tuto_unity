@@ -1,0 +1,3 @@
+comment tu dois utiliser new ? 
+
+static var, comment on est sensé les utiliser ?? C'est quoi le mieux entre faire du référenssement et du static ? 
