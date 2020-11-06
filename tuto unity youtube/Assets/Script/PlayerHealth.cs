@@ -91,12 +91,31 @@ public class PlayerHealth : MonoBehaviour
         PlayerMovement.instance.enabled = false;
 
         //play elimination animation
-        PlayerMovement.instance.animator.SetTrigger("playerDeath");
+        PlayerMovement.instance.animator.SetTrigger("playerDeath");//call a trigger inside the palayer animator to trigger the next animation
 
         // remove physics interaction with everything else
         PlayerMovement.instance.rb.bodyType = RigidbodyType2D.Kinematic;
         PlayerMovement.instance.playerCol.enabled = false;
+        PlayerMovement.instance.rb.velocity = new Vector3(0,0,0);
 
+        //handle the menu
+        GameOverManager.instance.OnPlayerDeath();
+    }
+    
+    public void Respawn()
+    {
+        
+        //enable player movement
+        PlayerMovement.instance.enabled = true;
+
+        //Enable animation system basicaly go to die animation to idle
+        PlayerMovement.instance.animator.SetTrigger("Respawn"); //call a trigger inside the palayer animator to trigger the next animation
+
+        //Enable physics interaction with everything else
+        PlayerMovement.instance.rb.bodyType = RigidbodyType2D.Dynamic;
+        PlayerMovement.instance.playerCol.enabled = true;
+        currentHealth = maxHealth;
+        healthBar.SetHealth(currentHealth);
 
     }
 
