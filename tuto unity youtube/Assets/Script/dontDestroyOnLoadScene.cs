@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class dontDestroyOnLoadScene : MonoBehaviour
+public class DontDestroyOnLoadScene : MonoBehaviour
 {
 
     public GameObject[] objects;

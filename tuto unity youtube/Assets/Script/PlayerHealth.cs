@@ -18,6 +18,8 @@ public class PlayerHealth : MonoBehaviour
     public SpriteRenderer graphics;
 
 
+
+    //all the reference section in instance is called a single tone
     public static PlayerHealth instance; //static variable are like global variable, you can accesse them form any script by using scriptName.StaticVarName
 
     private void Awake()//the awake function is called when a scene start  so at the beggining of the scene, we creat store the instance id into a static var named instance
@@ -42,7 +44,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.X))
         {
-            TakeDamage(20);
+            TakeDamage(50);
         }
     }
 
@@ -52,6 +54,14 @@ public class PlayerHealth : MonoBehaviour
         {
             currentHealth -= damage;
             healthBar.SetHealth(currentHealth);
+
+            //check if player still alive
+            if (currentHealth <= 0)
+            {
+                Death();
+                return;
+            }
+
             isInvincible = true;
             StartCoroutine(InvincibilityFlash());
             StartCoroutine(HandleInvincibilityDelay());
@@ -70,6 +80,23 @@ public class PlayerHealth : MonoBehaviour
             healthBar.SetHealth(currentHealth);
         }
         
+
+    }
+    
+    public void Death()
+    {
+        Debug.Log("player died");
+
+        //lock player movement
+        PlayerMovement.instance.enabled = false;
+
+        //play elimination animation
+        PlayerMovement.instance.animator.SetTrigger("playerDeath");
+
+        // remove physics interaction with everything else
+        PlayerMovement.instance.rb.bodyType = RigidbodyType2D.Kinematic;
+        PlayerMovement.instance.playerCol.enabled = false;
+
 
     }
 

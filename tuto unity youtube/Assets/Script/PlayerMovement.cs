@@ -4,6 +4,20 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
+
+    //all the reference section in instance is called a singletone
+    public static PlayerMovement instance; 
+    private void Awake()
+    {
+        if (instance != null)
+        {
+            Debug.LogWarning("il y a plus d'une instance de PlayerMovement dans la scéne");
+            return;
+        }
+        instance = this;
+    }
+
+
     //used to store our movespeed
     public float moveSpeed;
     public float climbSpeed;
@@ -11,7 +25,9 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce;
 
     //used to store the rigid body of the player
-    public Rigidbody2D rb;
+    public Rigidbody2D rb;    
+    //used to store the capsule collider of the player
+    public CapsuleCollider2D playerCol;
 
     
     private bool isJumping;

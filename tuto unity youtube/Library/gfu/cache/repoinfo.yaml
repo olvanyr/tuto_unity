@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-05T16:58:03.284+01:00
-  initializedAtString: 2020-11-05T16:58:03.284+01:00
+  lastUpdatedAtString: 2020-11-06T11:33:41.998+01:00
+  initializedAtString: 2020-11-06T11:33:41.998+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/olvanyr/tuto_unity.git
