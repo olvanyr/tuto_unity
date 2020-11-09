@@ -6,6 +6,7 @@ public class MainMenu : MonoBehaviour
 {
     public string levelToLoad;
 
+    public GameObject settingsWindow;
 
 
 
@@ -15,8 +16,12 @@ public class MainMenu : MonoBehaviour
     }
     
     public void SettingsButton()
-    { 
-        
+    {
+        settingsWindow.SetActive(true);
+    }
+    public void CloseSettingsButton()
+    {
+        settingsWindow.SetActive(false);
     }
     
     public void QuitGameButton()
